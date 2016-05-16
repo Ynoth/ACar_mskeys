@@ -10,7 +10,7 @@ Ces licences sont téléchargeables sous forme de lot au format XML.
 Aucune gestion de ces licences n’est proposée sur l’interface MSDN, il n’est donc pas possible de savoir quelles sont les clés utilisées et donc par conséquent lesquelles sont disponibles.
 L’équipe informatique du lycée souhaite disposer d’une application Web, hébergée sur le serveur LCS, permettant une gestion des licences Microsoft.
 
-http://llb.ac-corse.fr/MSKeys-LLB
+http://llb.ac-corse.fr/mskeys
 
 Environnement de Développement Intégré (IDE):
 Netbeans
